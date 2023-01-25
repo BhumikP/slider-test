@@ -1,0 +1,11 @@
+.slide-control {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 3%;
+}
+.slide-control button {
+  padding: 1rem;
+  font-size: 20px;
+  cursor: pointer;
+}
